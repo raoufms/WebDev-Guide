@@ -1,1 +1,2 @@
 # Idir
+Node.js est une plateforme JavaScript basée sur le moteur V8 de Google Chrome, utilisée pour le développement côté serveur et d'applications réseau. Elle permet d'exécuter du code JavaScript en dehors d'un navigateur, ce qui en fait un excellent choix pour des applications web côté serveur et d'autres applications réseau ou IoT.
